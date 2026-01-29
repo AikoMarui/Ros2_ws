@@ -1,0 +1,4 @@
+[console_scripts]
+subscriber_obstacle_detector_executable = mars_rover_tasks.subscriber_obstacle_detector:main
+text_recog_executable = mars_rover_tasks.text_recog_node:main
+

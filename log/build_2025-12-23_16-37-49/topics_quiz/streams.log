@@ -1,0 +1,21 @@
+[1.821s] Invoking command in '/home/user/ros2_ws/src/topics_quiz': PYTHONPATH=/home/user/ros2_ws/build/topics_quiz/prefix_override:/home/user/ros2_ws/install/topics_quiz/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/topics_quiz build --build-base /home/user/ros2_ws/build/topics_quiz/build install --record /home/user/ros2_ws/build/topics_quiz/install.log --single-version-externally-managed install_data
+[2.348s] running egg_info
+[2.349s] writing ../../build/topics_quiz/topics_quiz.egg-info/PKG-INFO
+[2.349s] writing dependency_links to ../../build/topics_quiz/topics_quiz.egg-info/dependency_links.txt
+[2.350s] writing entry points to ../../build/topics_quiz/topics_quiz.egg-info/entry_points.txt
+[2.351s] writing requirements to ../../build/topics_quiz/topics_quiz.egg-info/requires.txt
+[2.351s] writing top-level names to ../../build/topics_quiz/topics_quiz.egg-info/top_level.txt
+[2.353s] reading manifest file '../../build/topics_quiz/topics_quiz.egg-info/SOURCES.txt'
+[2.354s] writing manifest file '../../build/topics_quiz/topics_quiz.egg-info/SOURCES.txt'
+[2.355s] running build
+[2.355s] running build_py
+[2.355s] running install
+[2.356s] running install_lib
+[2.357s] running install_data
+[2.357s] running install_egg_info
+[2.360s] removing '/home/user/ros2_ws/install/topics_quiz/lib/python3.10/site-packages/topics_quiz-0.0.0-py3.10.egg-info' (and everything under it)
+[2.361s] Copying ../../build/topics_quiz/topics_quiz.egg-info to /home/user/ros2_ws/install/topics_quiz/lib/python3.10/site-packages/topics_quiz-0.0.0-py3.10.egg-info
+[2.362s] running install_scripts
+[2.401s] Installing topics_quiz_node script to /home/user/ros2_ws/install/topics_quiz/lib/topics_quiz
+[2.402s] writing list of installed files to '/home/user/ros2_ws/build/topics_quiz/install.log'
+[2.455s] Invoked command in '/home/user/ros2_ws/src/topics_quiz' returned '0': PYTHONPATH=/home/user/ros2_ws/build/topics_quiz/prefix_override:/home/user/ros2_ws/install/topics_quiz/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/topics_quiz build --build-base /home/user/ros2_ws/build/topics_quiz/build install --record /home/user/ros2_ws/build/topics_quiz/install.log --single-version-externally-managed install_data

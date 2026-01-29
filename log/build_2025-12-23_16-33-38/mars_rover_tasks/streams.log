@@ -1,0 +1,22 @@
+[1.930s] Invoking command in '/home/user/ros2_ws/src/mars_rover_tasks': PYTHONPATH=/home/user/ros2_ws/build/mars_rover_tasks/prefix_override:/home/user/ros2_ws/install/mars_rover_tasks/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/mars_rover_tasks build --build-base /home/user/ros2_ws/build/mars_rover_tasks/build install --record /home/user/ros2_ws/build/mars_rover_tasks/install.log --single-version-externally-managed install_data
+[2.343s] running egg_info
+[2.346s] writing ../../build/mars_rover_tasks/mars_rover_tasks.egg-info/PKG-INFO
+[2.346s] writing dependency_links to ../../build/mars_rover_tasks/mars_rover_tasks.egg-info/dependency_links.txt
+[2.346s] writing entry points to ../../build/mars_rover_tasks/mars_rover_tasks.egg-info/entry_points.txt
+[2.346s] writing requirements to ../../build/mars_rover_tasks/mars_rover_tasks.egg-info/requires.txt
+[2.346s] writing top-level names to ../../build/mars_rover_tasks/mars_rover_tasks.egg-info/top_level.txt
+[2.348s] reading manifest file '../../build/mars_rover_tasks/mars_rover_tasks.egg-info/SOURCES.txt'
+[2.349s] writing manifest file '../../build/mars_rover_tasks/mars_rover_tasks.egg-info/SOURCES.txt'
+[2.349s] running build
+[2.349s] running build_py
+[2.350s] running install
+[2.350s] running install_lib
+[2.353s] running install_data
+[2.353s] running install_egg_info
+[2.354s] removing '/home/user/ros2_ws/install/mars_rover_tasks/lib/python3.10/site-packages/mars_rover_tasks-0.0.0-py3.10.egg-info' (and everything under it)
+[2.355s] Copying ../../build/mars_rover_tasks/mars_rover_tasks.egg-info to /home/user/ros2_ws/install/mars_rover_tasks/lib/python3.10/site-packages/mars_rover_tasks-0.0.0-py3.10.egg-info
+[2.356s] running install_scripts
+[2.385s] Installing subscriber_obstacle_detector_executable script to /home/user/ros2_ws/install/mars_rover_tasks/lib/mars_rover_tasks
+[2.386s] Installing text_recog_executable script to /home/user/ros2_ws/install/mars_rover_tasks/lib/mars_rover_tasks
+[2.386s] writing list of installed files to '/home/user/ros2_ws/build/mars_rover_tasks/install.log'
+[2.423s] Invoked command in '/home/user/ros2_ws/src/mars_rover_tasks' returned '0': PYTHONPATH=/home/user/ros2_ws/build/mars_rover_tasks/prefix_override:/home/user/ros2_ws/install/mars_rover_tasks/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/mars_rover_tasks build --build-base /home/user/ros2_ws/build/mars_rover_tasks/build install --record /home/user/ros2_ws/build/mars_rover_tasks/install.log --single-version-externally-managed install_data

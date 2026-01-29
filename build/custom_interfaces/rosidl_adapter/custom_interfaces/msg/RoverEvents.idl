@@ -1,0 +1,20 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from custom_interfaces/msg/RoverEvents.msg
+// generated code does not contain a copyright notice
+
+#include "geometry_msgs/msg/Pose.idl"
+#include "std_msgs/msg/String.idl"
+
+module custom_interfaces {
+  module msg {
+    struct RoverEvents {
+      @verbatim (language="comment", text=
+        "Informação sobre descoberta, problema ou ação")
+      std_msgs::msg::String info;
+
+      @verbatim (language="comment", text=
+        "Posição do rover no momento do evento")
+      geometry_msgs::msg::Pose rover_location;
+    };
+  };
+};
